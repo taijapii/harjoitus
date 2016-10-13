@@ -5,7 +5,9 @@
 " parentID="pr4_n3h_px" mid="1"?>Perfect
     <?oxy_comment_end mid="1"?><?oxy_comment_end?>product</title>
   <body>
-    <p>This is the perfect, over-the-top, words-fail-me product just for you!</p>
+    <p>This is the
+      <?oxy_insert_start author="taijapii" timestamp="20161013T104525+0300"?>not-so-perfect<?oxy_insert_end?><?oxy_delete author="taijapii" timestamp="20161013T104525+0300" content="perfect"?>,
+      over-the-top, words-fail-me product just for you!</p>
   </body>
 </topic>
 <?oxy_options track_changes="on"?>
